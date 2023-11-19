@@ -1,6 +1,7 @@
 This repo contains my Python data analysis projects. I carry out the analysis in Jupiter notebook with <b>Pandas</b>, <b>NumPy</b>, and <b>GeoPandas</b>, and accompany it with visualizations made in <b>Matplotlib</b>, <b>Seaborn</b> and <b>Plotly</b>.
 If I create a dataset for analysis myself, I describe all steps of its creation in an additional notebook.
 Interactive vizzes make notebooks heavy, so they are best viewed through NBViewer. 
+
 <img src="collage.jpg" width="60%">
 | Project | Description | Added | Techniques | Notebook (NBViewer) | 
 | --- | --- | --- | --- | --- |
